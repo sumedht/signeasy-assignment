@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SignEasy</string>
+    <string name="app_name">SignEasy Assignment</string>
     <string name="action_settings">Settings</string>
     <string name="jellyBean">Android is fast and smooth with slick graphics. With Google Now, you get just the right information at the right time</string>
     <string name="kitkat">Smart, simple and truly yours. A more polished design, improved performance and new features</string>
@@ -8,4 +8,7 @@
     <string name="email_id">Email ID</string>
     <string name="password">Password</string>
     <string name="sign_in">SIGN IN</string>
+
+    <string name="log_in">Login</string>
+    <string name="sign_up">Sign up</string>
 </resources>
