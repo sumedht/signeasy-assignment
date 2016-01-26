@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignEasy</string>
+    <string name="action_settings">Settings</string>
+    <string name="jellyBean">Android is fast and smooth with slick graphics. With Google Now, you get just the right information at the right time</string>
+    <string name="kitkat">Smart, simple and truly yours. A more polished design, improved performance and new features</string>
+    <string name="lollipop">A sweet new take on Android. Get the smarts of Android on screens big and small – with the right information at the right moment.</string>
+    <string name="muffin">Now on Tap anticipates what you need in the moment. With a simple tap, you can get cards with useful information and apps that feed your need to know.</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+</resources>
