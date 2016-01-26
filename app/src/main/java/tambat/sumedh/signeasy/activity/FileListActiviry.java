@@ -27,7 +27,6 @@ public class FileListActiviry extends Activity implements RecyclerViewOnItemClic
 
   private RecyclerView recyclerView;
   private FileListAdapter fileListAdapter;
-  private int i = 0;
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
